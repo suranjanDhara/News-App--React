@@ -11,6 +11,7 @@ export default class App extends Component {
       <div>
         <NavBar/>
         <News/>
+        my name is Suranjan Dhara
         <NewsItem/>
       </div>
     )
